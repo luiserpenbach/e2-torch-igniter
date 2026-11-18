@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+CoolProp
+streamlit
+plotly
+# optional: rocketcea  (better c*(O/F); falls back to the CEA table otherwise)
